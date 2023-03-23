@@ -1,0 +1,6 @@
+{
+    "dir_path": "./",
+    "output_path": "./",
+    "include": [".py", ".java", ".cpp", ".go", ".lua", ".c", ".xml", ".js", ".html", ".css"],
+    "exclude": [".pyc", ".class"]
+}
